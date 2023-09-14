@@ -12,7 +12,7 @@ RED = '\033[91m'
 RESET = '\033[0m'
 
 # Set your YouTube API key here
-YOUTUBE_API_KEY = 'AIzaSyAyQheAF7Tr0RcGHTG2Xmaioa9qvu3qBiM'
+YOUTUBE_API_KEY = 'EKA API KEY YAKO'
 
 # Function to search for a video using the YouTube Data API
 def search_video(song_title):

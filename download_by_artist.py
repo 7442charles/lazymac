@@ -4,7 +4,7 @@ from googleapiclient.discovery import build
 from pydub import AudioSegment
 
 # Set your YouTube API key here
-YOUTUBE_API_KEY = 'AIzaSyAyQheAF7Tr0RcGHTG2Xmaioa9qvu3qBiM'
+YOUTUBE_API_KEY = 'EKA API KEY YAKO'
 
 # Function to search for a YouTube channel based on the artist's name
 def search_channel(artist_name):
